@@ -1,0 +1,13 @@
+# Gestor de Facturas y Clientes
+
+Proyecto para desarrollar un sistema de gestión de clientes y control de facturas en formato XML.  
+Incluye:
+- Base de datos de clientes.
+- Subida y parseo de facturas XML (CFDI).
+- Control de saldos mensuales.
+- Historial de pagos de honorarios.
+- Reportes y exportación.
+
+Meta: MVP funcional en 6 meses (enero 2026).
+
+
